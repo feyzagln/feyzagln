@@ -30,12 +30,12 @@
 ---
 
 ### 📈 GitHub İstatistiklerim
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feyzagln&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyzagln&layout=compact&theme=radical" width="48%" />
-</p>
+[![Feyza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=feyzagln&show_icons=true&theme=radical)](https://github.com/feyzagln)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feyzagln&layout=compact&theme=radical)](https://github.com/feyzagln)
 
+</div>
 ---
 
 ### 📫 Bana Ulaşın
