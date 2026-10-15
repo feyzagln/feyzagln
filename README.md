@@ -42,7 +42,6 @@
 
 - 💌 Mail: feyza_gulen59@gmail.com 
 - 🌐 LinkedIn: https://linkedin.com/in/feyzagulen
-- 🌍 Kişisel web sitesi: [Feyza Gülen](https://feyzagln.github.io/feyzagln/)
 
 ---
 
