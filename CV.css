@@ -68,6 +68,17 @@ section p {
     line-height: 1.8;
 }
 
+.contact-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4px 14px;
+}
+
+.contact-item {
+    white-space: nowrap;
+}
+
 .profile_pic {
     width: 210px;
     height: 210px;
@@ -129,6 +140,11 @@ section p {
 
     .right_side {
         width: 100%;
+    }
+
+    .contact-list {
+        justify-content: center;
+        gap: 6px 12px;
     }
 
     section p {
