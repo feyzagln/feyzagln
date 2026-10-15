@@ -1,6 +1,6 @@
 const facts = [
    "The thought of having a career in cybersecurity excites me 🔐",
-    "I received entrepreneurship training at the Google Game and Application Academy.",
+    "Drinking tea is my favorite hobby ☕",
     "We became the second-place winners in the Çukurova Floor Curling tournament during high school.",
     "My favorite fruit is kiwi 🥝",
     "Resident Evil 7 is my favorite video game. 🎮",
